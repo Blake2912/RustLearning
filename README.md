@@ -19,3 +19,8 @@ Things done
  - Completed reading about ownership
  - Tried implementing certain applications
  - Learned about memory safety
+
+## Day 6
+Things done
+ - Learned about Structs and implementation of functions
+ - Learned about Enums and usage of control flow using Enums
