@@ -14,3 +14,8 @@ Things done on Day 2
 - Control flow in rust - if, else, loops
 - Functions and created my own calculator for revising these topics
  
+## Day 3, 4, 5
+Things done
+ - Completed reading about ownership
+ - Tried implementing certain applications
+ - Learned about memory safety
