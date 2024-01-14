@@ -24,3 +24,9 @@ Things done
 Things done
  - Learned about Structs and implementation of functions
  - Learned about Enums and usage of control flow using Enums
+
+## Day 7
+Things done
+ - Learned about modules
+ - Learned about making methods public and private
+ - Learned about the usage of modules and on how to put it into different files
