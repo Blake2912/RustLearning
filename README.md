@@ -30,3 +30,9 @@ Things done
  - Learned about modules
  - Learned about making methods public and private
  - Learned about the usage of modules and on how to put it into different files
+
+## Day 8
+Things done
+ - Learned about Vectors
+ - Learned about Strings and it's basic functions
+ - Learned about Hash map and hashing in Rust
